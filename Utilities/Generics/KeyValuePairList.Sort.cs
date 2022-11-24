@@ -7,7 +7,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 
-namespace Utilities
+namespace SMBLibrary.Utilities
 {
     public partial class KeyValuePairList<TKey, TValue>
     {

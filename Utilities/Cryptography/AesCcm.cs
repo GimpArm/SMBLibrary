@@ -8,7 +8,7 @@ using System;
 using System.IO;
 using System.Security.Cryptography;
 
-namespace Utilities
+namespace SMBLibrary.Utilities
 {
     /// <summary>
     /// Implements the Counter with CBC-MAC (CCM) detailed in RFC 3610

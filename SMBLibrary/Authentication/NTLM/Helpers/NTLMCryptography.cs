@@ -10,7 +10,7 @@ using System.Globalization;
 using System.Reflection;
 using System.Security.Cryptography;
 using System.Text;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Authentication.NTLM
 {

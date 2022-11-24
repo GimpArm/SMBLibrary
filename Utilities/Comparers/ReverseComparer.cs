@@ -7,7 +7,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Utilities
+namespace SMBLibrary.Utilities
 {
     public class ReverseComparer<T> : IComparer<T>
     {

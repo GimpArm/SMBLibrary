@@ -4,7 +4,7 @@ using System;
 using System.IO;
 using System.Security.Cryptography;
 
-namespace Utilities
+namespace SMBLibrary.Utilities
 {
     public static class AesCmac
     {

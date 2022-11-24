@@ -8,7 +8,7 @@ using System;
 using System.IO;
 using System.Text;
 
-namespace Utilities
+namespace SMBLibrary.Utilities
 {
     public class ByteReader
     {

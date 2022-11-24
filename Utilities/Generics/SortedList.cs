@@ -8,7 +8,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Utilities
+namespace SMBLibrary.Utilities
 {
     public class SortedList<T> : ICollection<T>
     {

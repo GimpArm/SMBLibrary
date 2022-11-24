@@ -10,7 +10,7 @@ using System.Net;
 using System.Net.Sockets;
 using SMBLibrary.Authentication.GSSAPI;
 using SMBLibrary.NetBios;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Server
 {

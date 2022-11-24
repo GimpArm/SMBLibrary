@@ -10,7 +10,7 @@ using System.IO;
 using SMBLibrary.SMB1;
 using SMBLibrary.RPC;
 using SMBLibrary.Services;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Server.SMB1
 {

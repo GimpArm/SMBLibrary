@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Text;
 
-namespace Utilities
+namespace SMBLibrary.Utilities
 {
     public class BlockingQueue<T>
     {

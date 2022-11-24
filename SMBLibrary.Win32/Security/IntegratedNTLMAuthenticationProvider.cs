@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Net;
 using System.Text;
 using System.Runtime.InteropServices;
-using Utilities;
+using SMBLibrary.Utilities;
 using SMBLibrary.Authentication.GSSAPI;
 using SMBLibrary.Authentication.NTLM;
 using Microsoft.Win32;

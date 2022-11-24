@@ -18,7 +18,7 @@ using SMBLibrary.Authentication.NTLM;
 using SMBLibrary.Server;
 using SMBLibrary.Win32;
 using SMBLibrary.Win32.Security;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBServer
 {

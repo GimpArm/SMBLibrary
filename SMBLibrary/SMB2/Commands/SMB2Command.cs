@@ -8,7 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Security.Cryptography;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.SMB2
 {

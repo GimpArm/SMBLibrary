@@ -10,7 +10,7 @@ using System.Net.Sockets;
 using System.Runtime.InteropServices;
 #endif
 
-namespace Utilities
+namespace SMBLibrary.Utilities
 {
     public class SocketUtils
     {

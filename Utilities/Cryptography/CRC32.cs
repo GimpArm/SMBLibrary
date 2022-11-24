@@ -4,7 +4,7 @@
 using System;
 using System.Security.Cryptography;
 
-namespace Utilities
+namespace SMBLibrary.Utilities
 {
     public class CRC32 : HashAlgorithm
     {

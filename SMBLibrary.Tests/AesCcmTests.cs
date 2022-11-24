@@ -6,7 +6,7 @@
  */
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Tests
 {

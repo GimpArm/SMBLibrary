@@ -1,10 +1,10 @@
 /* Copyright (C) 2014-2020 Tal Aloni <tal.aloni.il@gmail.com>. All rights reserved.
- * 
+ *
  * Based on:
  * http://coding-time.blogspot.pt/2008/03/implement-your-own-parallelfor-in-c.html
  * C# 2.0 adaptation based on:
  * http://dotnetgalactics.wordpress.com/2009/11/19/how-to-provide-a-parallel-for-loop-in-c2-0-2/
- * 
+ *
  * You can redistribute this program and/or modify it under the terms of
  * the GNU Lesser Public License as published by the Free Software Foundation,
  * either version 3 of the License, or (at your option) any later version.
@@ -15,7 +15,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 
-namespace Utilities
+namespace SMBLibrary.Utilities
 {
     public delegate void ForDelegate(int i);
     public delegate void DelegateProcess();
@@ -80,7 +80,7 @@ namespace Utilities
                         chunkStart = index;
                     }
                     // process the chunk
-                    // (another thread is processing another chunk 
+                    // (another thread is processing another chunk
                     //  so the real order of items will be out-of-order)
                     for (int i = chunkStart; i < chunkStart + chunkSize; i++)
                     {

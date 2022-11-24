@@ -7,7 +7,7 @@
 using System;
 using System.IO;
 
-namespace Utilities
+namespace SMBLibrary.Utilities
 {
     public class LittleEndianWriter
     {

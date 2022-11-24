@@ -8,7 +8,7 @@ using System;
 using System.Collections.Generic;
 using SMBLibrary.RPC;
 using SMBLibrary.Services;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Client
 {

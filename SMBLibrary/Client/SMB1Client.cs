@@ -14,7 +14,7 @@ using SMBLibrary.Authentication.NTLM;
 using SMBLibrary.NetBios;
 using SMBLibrary.Services;
 using SMBLibrary.SMB1;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Client
 {

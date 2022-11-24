@@ -8,7 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Security.Cryptography;
 using SMBLibrary.Authentication.GSSAPI;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Authentication.NTLM
 {

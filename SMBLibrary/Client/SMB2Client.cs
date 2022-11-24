@@ -12,7 +12,7 @@ using System.Net.Sockets;
 using System.Threading;
 using SMBLibrary.NetBios;
 using SMBLibrary.SMB2;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Client
 {

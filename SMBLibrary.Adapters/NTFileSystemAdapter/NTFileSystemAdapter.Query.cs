@@ -8,7 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using DiskAccessLibrary.FileSystems.Abstractions;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Adapters
 {

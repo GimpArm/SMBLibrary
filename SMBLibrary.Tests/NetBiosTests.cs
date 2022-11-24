@@ -8,7 +8,7 @@ using System;
 using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SMBLibrary.NetBios;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Tests
 {

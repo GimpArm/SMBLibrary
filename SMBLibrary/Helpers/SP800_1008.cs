@@ -1,7 +1,7 @@
 // Adapted from https://referencesource.microsoft.com/#system.web/Security/Cryptography/SP800_108.cs
 using System;
 using System.Security.Cryptography;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary
 {

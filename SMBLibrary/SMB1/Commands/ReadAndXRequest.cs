@@ -7,7 +7,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.SMB1
 {

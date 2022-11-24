@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Security.Cryptography;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SMBLibrary.Authentication.NTLM;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Tests
 {

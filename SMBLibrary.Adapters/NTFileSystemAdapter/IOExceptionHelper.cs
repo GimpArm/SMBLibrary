@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
 using System.Text;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Adapters
 {

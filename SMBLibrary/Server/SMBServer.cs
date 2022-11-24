@@ -14,7 +14,7 @@ using SMBLibrary.NetBios;
 using SMBLibrary.Services;
 using SMBLibrary.SMB1;
 using SMBLibrary.SMB2;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Server
 {

@@ -5,7 +5,7 @@
  * either version 3 of the License, or (at your option) any later version.
  */
 using System;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.SMB2
 {

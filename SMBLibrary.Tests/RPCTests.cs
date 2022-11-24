@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SMBLibrary.RPC;
 using SMBLibrary.Services;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Tests
 {

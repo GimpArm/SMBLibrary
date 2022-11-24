@@ -8,7 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using SMBLibrary.SMB1;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Server.SMB1
 {

@@ -7,7 +7,7 @@
 using System;
 using System.Threading;
 
-namespace Utilities
+namespace SMBLibrary.Utilities
 {
     public class CountdownLatch
     {

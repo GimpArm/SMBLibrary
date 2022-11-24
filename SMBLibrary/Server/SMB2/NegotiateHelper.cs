@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using SMBLibrary.Authentication.GSSAPI;
 using SMBLibrary.NetBios;
 using SMBLibrary.SMB2;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Server.SMB2
 {

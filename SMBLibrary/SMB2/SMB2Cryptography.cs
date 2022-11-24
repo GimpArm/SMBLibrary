@@ -6,7 +6,7 @@
  */
 using System;
 using System.Security.Cryptography;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.SMB2
 {

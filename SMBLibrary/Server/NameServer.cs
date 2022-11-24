@@ -11,7 +11,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading;
 using SMBLibrary.NetBios;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Server
 {

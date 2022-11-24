@@ -17,7 +17,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Utilities\Utilities.csproj" PrivateAssets="All" />
+    <ProjectReference Include="..\Utilities\SMBLibrary.Utilities.csproj" PrivateAssets="All" />
   </ItemGroup>
 
   <Target Name="ILRepack" Condition="'$(Configuration)' == 'Release'" AfterTargets="AfterBuild">

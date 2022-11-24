@@ -6,7 +6,7 @@
  */
 using System;
 
-namespace Utilities
+namespace SMBLibrary.Utilities
 {
 	public partial class Conversion
 	{

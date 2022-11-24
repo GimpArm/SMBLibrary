@@ -7,7 +7,7 @@
 using System;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Win32.Security
 {

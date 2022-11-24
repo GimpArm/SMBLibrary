@@ -7,7 +7,7 @@
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SMBLibrary.SMB2;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Tests
 {

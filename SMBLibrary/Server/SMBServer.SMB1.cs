@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using SMBLibrary.NetBios;
 using SMBLibrary.Server.SMB1;
 using SMBLibrary.SMB1;
-using Utilities;
+using SMBLibrary.Utilities;
 
 namespace SMBLibrary.Server
 {
