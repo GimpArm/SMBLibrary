@@ -20,7 +20,7 @@
   </ItemGroup>
   
   <ItemGroup Condition="'$(Configuration)' != 'Release'">
-    <ProjectReference Include="..\Utilities\SMBLibrary.Utilities.csproj" />
+    <ProjectReference Include="..\SMBLibrary.Utilities\SMBLibrary.Utilities.csproj" />
   </ItemGroup>
 
 </Project>
