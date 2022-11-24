@@ -1,3 +1,15 @@
+# SMBLibrary
+
+This is a fork of [Tal Aloni's SMBLibrary](https://github.com/TalAloni/SMBLibrary) that has the root Utilities namespace moved to SMLibrary.Utilities so it does not conflict with other libraries.
+
+There is a netstandard2.0 package available under the name [SMBLibrary.RootNS](https://www.nuget.org/packages/SMBLibrary.RootNS).
+
+## Changes From the Original Library
+
+- Utilities changed to SMLibrary.Utilities
+
+The original readme:
+
 About SMBLibrary:
 =================
 SMBLibrary is an open-source C# SMB 1.0/CIFS, SMB 2.0, SMB 2.1 and SMB 3.0 server and client implementation.  
